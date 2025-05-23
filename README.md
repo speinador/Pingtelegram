@@ -11,7 +11,7 @@ Este bot de Telegram permite verificar el estado de conexión (ping) de una list
 
 ## 🛠️ Requisitos
 
-- Python 3.6 o superior
+- [Python 3.6 o superior](https://www.python.org/downloads/)
 - Las siguientes dependencias de Python:
   - `pythonping`
   - `python-telegram-bot`
