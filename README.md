@@ -53,3 +53,19 @@ El archivo contiene dos listas con IPs y nombres descriptivos:
 
 ## 🔐 Seguridad
 Ten en cuenta que el token de tu bot de Telegram debe mantenerse en secreto. Se recomienda cargarlo desde una variable de entorno o un archivo .env en lugar de dejarlo en el código fuente.
+
+---
+
+## 🧑‍🏫 Autor
+
+Explicación elaborada por [Sebastian Peinador](https://www.linkedin.com/in/sebastian-j-peinador/) para propósitos didácticos y de investigación en ciberseguridad ofensiva.
+
+---
+
+## 📄 Licencia
+
+Este material se distribuye bajo la licencia [MIT](LICENSE).
+
+---
+
+> Si te resulta útil, ¡no olvides darle ⭐ al repo o compartirlo!
